@@ -1,4 +1,9 @@
 # Awesome-Controllable-Captioning
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+![](https://img.shields.io/github/last-commit/hasakiXie123/Awesome-Controllable-Captioning?color=green)
+<a href="https://github.com/hasakiXie123/Awesome-Controllable-Captioning"><img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/hasakiXie123/Awesome-Controllable-Captioning"  align="bottom"/></a>
+![GitHub stars](https://img.shields.io/github/stars/hasakiXie123/Awesome-Controllable-Captioning?color=orange)
+
 Latest Papers on Controllable Captioning.
 
 ## Paper List
